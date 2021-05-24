@@ -26,7 +26,17 @@ In this project, it is proposed to display a 3D model on a standard screen, gene
 - This development was designed to be operated by a single user.
 
 ## Test requirements
-- [x] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [x] PySide2
+- [x] socket
+- [x] opencv-python
+- [x] dlib
+- [x] math
+- [x] numpy
+- [x] Pyopengl
+- [x] glfw
+- [x] pyrr
+- [x] pillow
+- [x] screeninfo
+
+
+_#Ka&Lau4ever 🛠️_
