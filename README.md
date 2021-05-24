@@ -4,7 +4,7 @@
 
 In this project, it is proposed to display a 3D model on a standard screen, generating anapproximation to the real object through illusion. The user must face the device and movesideways, front or back, to observe the effect. The position of the eyes is established in thecoordinates x, y, and z, using a web camera. The image varies depending on this value. Thepurpose of this is to allow the observer to feel the changes in point of view. The evaluationof the system’s operation to be developed will be carried out from the experience of severalusers. The result is expected to have four limitations:
 
-![alt text](https://github.com/laemD8/IA_Final/blob/main/Im%C3%A1genes/new.png)
+![alt text](https://github.com/laemD8/Non-invasive-3D-model-display-system-on-standard-screen/blob/main/images/modelo.jpg)
 
 1. It does not offer total immersion in the experience, by not having invasive devices.
 2. The camera’s field of view demarcates the space in which the observer moves.
